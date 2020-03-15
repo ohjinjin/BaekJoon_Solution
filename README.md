@@ -61,4 +61,11 @@ inputoutput(2)
 [https://ohjinjin.github.io/baekjoon/inputoutput-2-2446/](https://ohjinjin.github.io/baekjoon/inputoutput-2-2446/)<br/>
 8. 10991<br/>
 [https://ohjinjin.github.io/baekjoon/inputoutput-2-10991/](https://ohjinjin.github.io/baekjoon/inputoutput-2-10991/)<br/>
-9. 
+9. 10992<br/>
+[https://ohjinjin.github.io/baekjoon/inputoutput-2-10992/](https://ohjinjin.github.io/baekjoon/inputoutput-2-10992/)<br/>
+
+<br/>
+
+
+time complexity
+------
