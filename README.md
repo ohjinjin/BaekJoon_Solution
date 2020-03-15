@@ -37,5 +37,20 @@ inputoutput(1)
 [https://ohjinjin.github.io/baekjoon/inputoutput-1-2439/](https://ohjinjin.github.io/baekjoon/inputoutput-1-2439/)<br/>
 17. 1924<br/>
 [https://ohjinjin.github.io/baekjoon/inputoutput-1-1924/](https://ohjinjin.github.io/baekjoon/inputoutput-1-1924/)<br/>
+18. 10818<br/>
+[https://ohjinjin.github.io/baekjoon/inputoutput-1-10818/](https://ohjinjin.github.io/baekjoon/inputoutput-1-10818/)
 
 <br/>
+
+
+inputoutput(2)
+------
+1. 2438<br/>
+[https://ohjinjin.github.io/baekjoon/inputoutput-2-2438/](https://ohjinjin.github.io/baekjoon/inputoutput-2-2438/)<br/>
+2. 2440<br/>
+[https://ohjinjin.github.io/baekjoon/inputoutput-2-2440/](https://ohjinjin.github.io/baekjoon/inputoutput-2-2440/)<br/>
+3. 2441<br/>
+[https://ohjinjin.github.io/baekjoon/inputoutput-2-2441/](https://ohjinjin.github.io/baekjoon/inputoutput-2-2441/)<br/>
+4. 2442<br/>
+[https://ohjinjin.github.io/baekjoon/inputoutput-2-2442/](https://ohjinjin.github.io/baekjoon/inputoutput-2-2442/)<br/>
+5. 
