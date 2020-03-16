@@ -83,3 +83,14 @@ data structure
 [https://ohjinjin.github.io/baekjoon/datastructure-1991/](https://ohjinjin.github.io/baekjoon/datastructure-1991/)
 
 <br/>
+
+
+...
+------
+
+<br/>
+
+
+DP for beginner
+------
+1. 11727<br/>
