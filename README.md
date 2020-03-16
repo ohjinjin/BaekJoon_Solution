@@ -69,3 +69,17 @@ inputoutput(2)
 
 time complexity
 ------
+
+<br/>
+
+
+data structure
+------
+1. 10828<br/>
+[https://ohjinjin.github.io/baekjoon/datastructure-10828/](https://ohjinjin.github.io/baekjoon/datastructure-10828/)
+2. 10845<br/>
+[https://ohjinjin.github.io/baekjoon/datastructure-10845/](https://ohjinjin.github.io/baekjoon/datastructure-10845/)
+3. 1991<br/>
+[https://ohjinjin.github.io/baekjoon/datastructure-1991/](https://ohjinjin.github.io/baekjoon/datastructure-1991/)
+
+<br/>
