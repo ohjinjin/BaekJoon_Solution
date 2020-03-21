@@ -94,6 +94,11 @@ data structure
 DP for beginner
 ------
 1. 11727<br/>
-[https://ohjinjin.github.io/baekjoon/datastructure-11727/](https://ohjinjin.github.io/baekjoon/datastructure-11727/)
+[https://ohjinjin.github.io/baekjoon/dynamicprogramming-11727/](https://ohjinjin.github.io/baekjoon/dynamicprogramming-11727/)
 2. 9095<br/>
-[https://ohjinjin.github.io/baekjoon/datastructure-9095/](https://ohjinjin.github.io/baekjoon/datastructure-9095/)
+[https://ohjinjin.github.io/baekjoon/dynamicprogramming-9095/](https://ohjinjin.github.io/baekjoon/dynamicprogramming-9095/)
+
+BitMask
+------
+1. 1182<br/>
+[https://ohjinjin.github.io/baekjoon/bitmask-1182/](https://ohjinjin.github.io/baekjoon/bitmask-1182/)
