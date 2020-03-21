@@ -102,3 +102,5 @@ BitMask
 ------
 1. 1182<br/>
 [https://ohjinjin.github.io/baekjoon/bitmask-1182/](https://ohjinjin.github.io/baekjoon/bitmask-1182/)
+2. 14225<br/>
+[https://ohjinjin.github.io/baekjoon/bitmask-14225/](https://ohjinjin.github.io/baekjoon/bitmask-14225/)
