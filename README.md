@@ -104,3 +104,14 @@ BitMask
 [https://ohjinjin.github.io/baekjoon/bitmask-1182/](https://ohjinjin.github.io/baekjoon/bitmask-1182/)
 2. 14225<br/>
 [https://ohjinjin.github.io/baekjoon/bitmask-14225/](https://ohjinjin.github.io/baekjoon/bitmask-14225/)
+
+Trie
+------
+1. 14425<br/>
+[https://ohjinjin.github.io/baekjoon/trie-14425/](https://ohjinjin.github.io/baekjoon/trie-14425/)
+
+
+Programmers 문제
+------
+1. 42577<br/>
+[https://ohjinjin.github.io/Programmers/programmers-42577/](https://ohjinjin.github.io/Programmers/programmers-42577/)
